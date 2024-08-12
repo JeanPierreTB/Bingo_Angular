@@ -1,0 +1,11 @@
+
+.columna{
+    background:gray;
+    border: 2px solid gray;
+    border-width: 20px;
+    border-radius: 20px;
+    color:black;
+    text-align: center;
+    cursor: pointer;
+    
+}
